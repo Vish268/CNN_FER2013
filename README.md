@@ -5,7 +5,7 @@ The problem in question is to classify images from the FER 2013 Databases into i
 These being : ['anger','fear','disgust','happy','neutral','sad','surprise']
 
 ## Approach
-A CNN (convolutional neural network) model is being used in this project since for the image classification it, on average has a higher accuaracy.
+A CNN (convolutional neural network) model is being used in this project since for image classification it, on average has a higher accuaracy.
 The various layers of the cnn model were modified randomly for optimization. 
 Streamlit was used here as the web interface.
 
