@@ -13,3 +13,7 @@ The average accuracy was 52 % in the testing dataset. Though this seems low, dur
 
 ## Challenges
 During the intial stages of testing with the test data set, the accuracy was around 20 %.This might have been because of the lack of resolution in the pictures (48x48)
+
+
+## NOTE
+Currently only jpg/jpeg images are supported.
