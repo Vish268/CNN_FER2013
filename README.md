@@ -14,6 +14,7 @@ Streamlit was used here as the web interface.
 
 ## Results
 The average accuracy was 52 % in the testing dataset. Though this seems low, during the actual trial with random pictures from the internet ,it yielded a much better result.
+Screenshots of the correctly and incorrectly classified images are given inside the screenshots folder.
 
 Below are a few snapshots of the these results ,
 
