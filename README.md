@@ -11,7 +11,7 @@ The various layers of the cnn model were modified randomly for optimization.
 ## Results
 The average accuracy was 52 % in the testing dataset. Though this seems low, during the actual trial with random pictures from the internet ,it yielded a much better result.
 
-(https://github.com/Vish268/CNN_FER2013/blob/main/screenshots/Screenshot%202024-12-16%20094200.png)
+![Alt text](https://github.com/Vish268/CNN_FER2013/blob/main/screenshots/Screenshot%202024-12-16%20094200.png)
 
 ## Challenges
 During the intial stages of testing with the test data set, the accuracy was around 20 %.This might have been because of the lack of resolution in the pictures (48x48)
