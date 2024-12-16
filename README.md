@@ -30,7 +30,7 @@ Below are a few snapshots of the these results ,
 ![Confusion Matrix](https://github.com/Vish268/CNN_FER2013/blob/main/screenshots/Screenshot%202024-12-16%20134804.png)
 
 ## Challenges
-During the intial stages of testing with the test data set, the accuracy was around 20 %.This might have been because of the lack of resolution in the pictures (48x48)
+During the intial stages of testing with the test data set, the accuracy was around 20 %.This might have been because of the lack of resolution in the pictures (48x48) in the dataset.
 
 
 ## NOTE
